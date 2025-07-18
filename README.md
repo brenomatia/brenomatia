@@ -2,6 +2,9 @@
 
 **Desenvolvedor Laravel** com 2,5 anos de experiência em sistemas escaláveis e robustos.
 
+![GitHub followers](https://img.shields.io/github/followers/brenomatia?label=Seguidores&style=social)
+![Profile views](https://komarev.com/ghpvc/?username=brenomatia)
+
 ---
 
 ## 🛠 Tecnologias & Ferramentas
