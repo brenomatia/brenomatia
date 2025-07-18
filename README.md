@@ -65,7 +65,6 @@
   | ------------------------------------------------------------- | ------------------- | -------------------------------------------- |
   | [sistema-doacao-laravel](https://github.com/brenomatia/sistema-doacao-laravel) | PHP, CSS            | Plataforma de doações com dashboard moderno. |
   | [projeto-ordem-servico](https://github.com/brenomatia/projeto-ordem-servico)   | JavaScript, Node.js | Gerenciamento completo de ordens de serviço. |
-  | [avisazap](https://github.com/brenomatia/avisazap)                             | Node.js, Express    | Automações de atendimento via WhatsApp.      |
 </details>
 
 ---
