@@ -29,6 +29,6 @@
 ---
 
 ## 📫 Contato
-- 🌐 [breno.laravel.dev](https://breno.laravel.dev)  
+- 🌐 [Avisazap - Automações para seu atendimento](https://avisazap.com.br)  
 - 🔗 [LinkedIn](https://www.linkedin.com/in/breno-mendonça-matias)  
-- ✉️ breno@seudominio.com
+- ✉️ brenomendoncamatias@gmail.com
