@@ -1,11 +1,6 @@
 <!-- ====== BANNER FUTURISTA ====== -->
-<p align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=wavy&color=121212,1F2833&height=180&section=header&text=Breno%20Matias&fontSize=70&fontColor=FFFFFF"
-    alt="Banner Breno Matias"/>
-</p>
 
----
+![Banner Breno Matias](https://capsule-render.vercel.app/api?type=wavy&color=000000,0A0A0A&height=200&section=header&text=Breno%20Matias&fontSize=80&fontColor=FFFFFF&animation=twinkling)
 
 <p align="center">
   <img
