@@ -1,43 +1,90 @@
-<!-- ====== BANNER DE APRESENTAÇÃO ====== -->
-
-![Banner Breno Matias](https://capsule-render.vercel.app/api?type=wavy&color=000000,0A0A0A&height=180&section=header&text=Breno%20Matias&fontSize=60&fontColor=FFFFFF)
+---
 
 <p align="center">
-  👋 Olá, eu sou <strong style="color:#1ABC9C">Breno Matias</strong>
+  <img
+    src="https://img.shields.io/badge/Desenvolvedor_Laravel-1ABC9C?style=for-the-badge&logo=laravel&logoColor=000000"
+    alt="Laravel"/>
+  <img
+    src="https://img.shields.io/badge/Experiência-2.5_anos-1ABC9C?style=for-the-badge&logo=clock&logoColor=000000"
+    alt="Experiência"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=brenomatia&show_icons=true&theme=dark&hide_border=true&bg_color=0A0A0A&title_color=1ABC9C&icon_color=1ABC9C&text_color=FFFFFF" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brenomatia&layout=compact&theme=dark&hide_border=true&bg_color=0A0A0A&title_color=1ABC9C&text_color=FFFFFF" alt="Top Languages"/>
+  <img
+    src="https://img.shields.io/github/followers/brenomatia?label=Seguidores&style=flat-square&color=1ABC9C&logo=github&logoColor=000000"
+    alt="Seguidores"/>
+  <img
+    src="https://komarev.com/ghpvc/?username=brenomatia&style=flat-square&color=1ABC9C"
+    alt="Visualizações"/>
 </p>
 
 ---
 
-## 🛠️ Tech Stack
+## 👋 Sobre mim  
 <p align="center">
-  <img src="https://img.shields.io/badge/AWS-1ABC9C?logo=amazonaws&logoColor=000000&style=flat-square" alt="AWS"/>
-  <img src="https://img.shields.io/badge/GCP-1ABC9C?logo=googlecloud&logoColor=000000&style=flat-square" alt="GCP"/>
-  <img src="https://img.shields.io/badge/Docker-1ABC9C?logo=docker&logoColor=000000&style=flat-square" alt="Docker"/>
-  <img src="https://img.shields.io/badge/Kubernetes-1ABC9C?logo=kubernetes&logoColor=000000&style=flat-square" alt="Kubernetes"/>
-  <img src="https://img.shields.io/badge/Python-1ABC9C?logo=python&logoColor=000000&style=flat-square" alt="Python"/>
-  <img src="https://img.shields.io/badge/Node.js-1ABC9C?logo=node.js&logoColor=000000&style=flat-square" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/MongoDB-1ABC9C?logo=mongodb&logoColor=000000&style=flat-square" alt="MongoDB"/>
-  <img src="https://img.shields.io/badge/MySQL-1ABC9C?logo=mysql&logoColor=000000&style=flat-square" alt="MySQL"/>
+  Olá, eu sou o **Breno Matias**, Desenvolvedor Laravel com 2,5 anos de experiência em sistemas escaláveis e robustos.
 </p>
 
 ---
 
-## 🔗 Conecte-se comigo
-<p align="center">
-  <a href="https://www.youtube.com/"><img src="https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=FFFFFF&style=for-the-badge" alt="YouTube"/></a>
-  <a href="https://www.instagram.com/"><img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=FFFFFF&style=for-the-badge" alt="Instagram"/></a>
-  <a href="https://twitter.com/"><img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=FFFFFF&style=for-the-badge" alt="Twitter"/></a>
-  <a href="https://www.linkedin.com/in/breno-mendonça-matias"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=FFFFFF&style=for-the-badge" alt="LinkedIn"/></a>
-  <a href="mailto:brenomendoncamatias@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=FFFFFF&style=for-the-badge" alt="Email"/></a>
-</p>
+## 🛠 Tecnologias & Ferramentas  
+<div align="center">
+  <img
+    src="https://img.shields.io/badge/PHP-1ABC9C?style=for-the-badge&logo=php&logoColor=000000"
+    alt="PHP"/>
+  <img
+    src="https://img.shields.io/badge/Laravel-1ABC9C?style=for-the-badge&logo=laravel&logoColor=000000"
+    alt="Laravel"/>
+  <img
+    src="https://img.shields.io/badge/MySQL-1ABC9C?style=for-the-badge&logo=mysql&logoColor=000000"
+    alt="MySQL"/>
+  <img
+    src="https://img.shields.io/badge/JavaScript-1ABC9C?style=for-the-badge&logo=javascript&logoColor=000000"
+    alt="JavaScript"/>
+</div>
 
 ---
 
+## 📊 Estatísticas  
+<div align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=brenomatia&show_icons=true&theme=radical&hide_border=true&bg_color=121212&title_color=1ABC9C&icon_color=1ABC9C&text_color=FFFFFF"
+    alt="GitHub Stats"/>
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=brenomatia&layout=compact&theme=radical&hide_border=true&bg_color=121212&title_color=1ABC9C&text_color=FFFFFF"
+    alt="Top Languages"/>
+</div>
+
+---
+
+## 🚀 Projetos em destaque  
+<details>
+  <summary align="center"><strong style="color:#1ABC9C">▶️ Clique para ver meus projetos</strong></summary>
+  
+  | Projeto                                                       | Tech                | Descrição                                    |
+  | ------------------------------------------------------------- | ------------------- | -------------------------------------------- |
+  | [sistema-doacao-laravel](https://github.com/brenomatia/sistema-doacao-laravel) | PHP, CSS            | Plataforma de doações com dashboard moderno. |
+  | [projeto-ordem-servico](https://github.com/brenomatia/projeto-ordem-servico)   | JavaScript, Node.js | Gerenciamento completo de ordens de serviço. |
+  | [avisazap](https://github.com/brenomatia/avisazap)                             | Node.js, Express    | Automações de atendimento via WhatsApp.      |
+</details>
+
+---
+
+## 📫 Contato  
 <p align="center">
-  ![Snake animation](https://github.com/brenomatia/brenomatia/blob/output/github-contribution-grid-snake.svg)
+  <a href="https://avisazap.com.br">
+    <img
+      src="https://img.shields.io/badge/🌐-avisazap.com.br-1ABC9C?style=flat-square&logo=google-chrome&logoColor=000000"
+      alt="Site"/>
+  </a>
+  <a href="https://www.linkedin.com/in/breno-mendonça-matias">
+    <img
+      src="https://img.shields.io/badge/🔗-LinkedIn-1ABC9C?style=flat-square&logo=linkedin&logoColor=000000"
+      alt="LinkedIn"/>
+  </a>
+  <a href="mailto:brenomendoncamatias@gmail.com">
+    <img
+      src="https://img.shields.io/badge/✉️-Email-1ABC9C?style=flat-square&logo=gmail&logoColor=000000"
+      alt="Email"/>
+  </a>
 </p>
