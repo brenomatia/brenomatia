@@ -1,6 +1,8 @@
 <!-- Banner GitHub Stats -->
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=brenomatia&theme=github_dark&background=1ABC9C" width="100%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=brenomatia&theme=github_dark&background=1ABC9C" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=brenomatia&theme=github_dark&background=1ABC9C" />
 </div>
 
 ---
@@ -18,15 +20,6 @@ Desenvolvedor Laravel com 2 anos e meio de experiência na criação de sistemas
   <img src="https://img.shields.io/badge/PHP-1ABC9C?style=for-the-badge&logo=php&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-1ABC9C?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-1ABC9C?style=for-the-badge&logo=javascript&logoColor=white" />
-</div>
-
----
-
-## 📊 Atividade GitHub
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=brenomatia&theme=github_dark&background=1ABC9C" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=brenomatia&theme=github_dark&background=1ABC9C" />
 </div>
 
 ---
