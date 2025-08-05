@@ -1,15 +1,14 @@
 <!-- Banner GitHub Stats -->
 
-<!-- Linha 1 - Ocupa 100% da largura -->
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=brenomatia&theme=github_light" width="100%" />
+<div>
+  <!-- Largura total -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=brenomatia&theme=default" width="100%" />
+</div>
+<div>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=brenomatia&theme=default" width="49.5%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=brenomatia&theme=default" width="49.5%" />
 </div>
 
-<!-- Linha 2 - Dois cards lado a lado (50% cada) -->
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=brenomatia&theme=github_light" width="49.5%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=brenomatia&theme=github_light" width="49.5%" />
-</div>
 
 
 ---
