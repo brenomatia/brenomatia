@@ -1,11 +1,11 @@
 <!-- Banner GitHub Stats -->
 
 <div>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=brenomatia&theme=vue" width="100%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=brenomatia&theme=nord_bright" width="100%" />
 </div>
 <div>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=brenomatia&theme=vue" width="49.5%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=brenomatia&theme=vue" width="49.5%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=brenomatia&theme=nord_bright" width="49.5%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=brenomatia&theme=nord_bright" width="49.5%" />
 </div>
 
 ---
