@@ -2,20 +2,21 @@
 
 <!-- Linha 1 - Ocupa 100% da largura -->
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=brenomatia&theme=github_dark&background=1ABC9C" width="100%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=brenomatia&theme=github_light" width="100%" />
 </div>
 
 <!-- Linha 2 - Dois cards lado a lado (50% cada) -->
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=brenomatia&theme=github_dark&background=1ABC9C" width="49.5%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=brenomatia&theme=github_dark&background=1ABC9C" width="49.5%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=brenomatia&theme=github_light" width="49.5%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=brenomatia&theme=github_light" width="49.5%" />
 </div>
+
 
 ---
 
 ## 🧑‍💻 Sobre
 
-Desenvolvedor Laravel com 2 anos e meio de experiência na criação de sistemas **escaláveis**, **seguros** e com foco em **performance** e **código limpo**.
+Desenvolvedor Laravel com 2 anos e meio de experiência na criação de sistemas **escaláveis**, **seguros** e com foco em **performance**.
 
 ---
 
