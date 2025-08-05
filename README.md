@@ -1,7 +1,7 @@
 <!-- Banner GitHub Stats -->
 
 <div>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=brenomatia&theme=github_dark" width="100%; color: white;" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=brenomatia&theme=github_dark" width="100%" />
 </div>
 <div>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=brenomatia&theme=github_dark" width="49.5%" />
