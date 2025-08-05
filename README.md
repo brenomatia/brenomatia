@@ -25,32 +25,6 @@
 
 ---
 
-## 🚀 Projetos em Destaque
-<details>
-  <summary align="center"><strong style="color:#1ABC9C">▶️ Clique para explorar</strong></summary>
-
-| Projeto                                                       | Tecnologias         | Descrição                                     |
-| ------------------------------------------------------------- | ------------------- | --------------------------------------------- |
-| [Sistema de Doações](https://github.com/brenomatia/sistema-doacao-laravel) | Laravel, PHP         | Plataforma de doações com dashboard moderno.  |
-| [Ordem de Serviço](https://github.com/brenomatia/projeto-ordem-servico)   | Node.js, JavaScript | Gestão de ordens com painel completo.         |
-
-</details>
-
----
-
-## 📫 Contato
-<p align="center">
-  <a href="https://avisazap.com.br">
-    <img src="https://img.shields.io/badge/🌐-avisazap.com.br-1ABC9C?style=flat-square&logo=google-chrome&logoColor=000000" />
-  </a>
-  <a href="https://www.linkedin.com/in/breno-mendonça-matias">
-    <img src="https://img.shields.io/badge/🔗-LinkedIn-1ABC9C?style=flat-square&logo=linkedin&logoColor=000000" />
-  </a>
-  <a href="mailto:brenomendoncamatias@gmail.com">
-    <img src="https://img.shields.io/badge/✉️-Email-1ABC9C?style=flat-square&logo=gmail&logoColor=000000" />
-  </a>
-</p>
-
 <p align="center">
   <img src="https://img.shields.io/github/followers/brenomatia?label=Seguidores&style=flat-square&color=1ABC9C&logo=github&logoColor=000000" />
   <img src="https://komarev.com/ghpvc/?username=brenomatia&style=flat-square&color=1ABC9C" />
