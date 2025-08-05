@@ -29,9 +29,9 @@ Desenvolvedor Laravel com 2 anos e meio de experiência na criação de sistemas
 
 ## 🌐 Contato
 
-- 🌎 SaaS atual: [Avisazap](https://avisazap.com.br)
-- 💼 LinkedIn: [Breno Mendonça Matias](https://www.linkedin.com/in/breno-mendon%C3%A7a-a22690293/)
--  <i class="fa-brands fa-instagram"></i> Instagram: @breno.laravel.dev
+- SaaS atual: [AVISAZAP - Uma nova era da automação no WhatsApp](https://avisazap.com.br)
+- LinkedIn: [BRENO MENDONÇA MATIAS](https://www.linkedin.com/in/breno-mendon%C3%A7a-a22690293/)
+- Instagram: @BRENO.LARAVEL.DEV
 
 ---
 
